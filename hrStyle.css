@@ -1,0 +1,255 @@
+body{
+    background-image: url('bg9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 90px;
+    background-color: black;
+    color: white;
+}
+
+nav ul li{
+    padding: 0 15px;
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    white-space: nowrap;
+}
+
+
+nav ul li a:hover{
+    border-bottom: 3px solid #fff;
+    background-color: rgba(255, 51, 153, 0.527);
+}
+.brand img{
+    height: 95px;
+    padding: 0 8px;
+}
+
+.content{
+    padding: 20px;
+}
+
+.content h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.papaya{
+    display: flex;
+    font-size: 20px;
+}
+
+.papaya img{
+    margin-left: 100px;
+}
+
+.karela{
+    display: flex;
+    font-size: 20px;
+}
+
+.karela img{
+    margin-left: 100px;
+}
+
+.olive{
+    display: flex;
+    font-size: 20px;
+}
+
+.olive img{
+    margin-left: 100px;
+}
+
+.curry{
+    display: flex;
+    font-size: 20px;
+}
+
+.curry img{
+    margin-left: 100px;
+}
+
+.bay{
+    display: flex;
+    font-size: 20px;
+}
+
+.bay img{
+    margin-left: 100px;
+}
+
+.neem{
+    display: flex;
+    font-size: 20px;
+}
+
+.neem img{
+    margin-left: 100px;
+}
+
+.mango{
+    display: flex;
+    font-size: 20px;
+}
+
+.mango img{
+    margin-left: 100px;
+}
+
+.aak{
+    display: flex;
+    font-size: 20px;
+}
+
+.aak img{
+    margin-left: 100px;
+    height: 200px;
+}
+
+.stevia{
+    display: flex;
+    font-size: 20px;
+}
+
+.stevia img{
+    margin-left: 100px;
+    height: 200px;
+}
+
+.amla{
+    display: flex;
+    font-size: 20px;
+}
+
+.amla img{
+    margin-left: 100px;
+    height: 300px;
+}
+
+.jamun{
+    display: flex;
+    font-size: 20px;
+}
+
+.jamun img{
+    margin-left: 100px;
+    height: 200px;
+}
+
+.guava{
+    display: flex;
+    font-size: 20px;
+}
+
+.guava img{
+    margin-left: 100px;
+    height: 200px;
+}
+
+.cherries{
+    display: flex;
+    font-size: 20px;
+}
+
+.cherries img{
+    margin-left: 100px;
+    height: 200px;
+}
+
+.pears{
+    display: flex;
+    font-size: 20px;
+}
+
+.pears img{
+    margin-left: 100px;
+    height: 200px;
+}
+
+.bael{
+    display: flex;
+    font-size: 20px;
+}
+
+.bael img{
+    margin-left: 100px;
+    height: 200px;
+}
+
+.methi{
+    display: flex;
+    font-size: 20px;
+}
+
+.methi img{
+    margin-left: 100px;
+    height: 200px;
+}
+
+.tulsi{
+    display: flex;
+    font-size: 20px;
+}
+
+.tulsi img{
+    margin-left: 300px;
+    height: 100px;
+    width: 200px;
+}
+
+.flax{
+    display: flex;
+    font-size: 20px;
+}
+
+.flax img{
+    margin-left: 100px;
+    height: 200px;
+    width: 500px;
+}
+
+.almond{
+    display: flex;
+    font-size: 20px;
+}
+
+.almond img{
+    margin-left: 100px;
+    height: 200px;
+}
+
+.peanut{
+    display: flex;
+    font-size: 20px;
+}
+
+.peanut img{
+    margin-left: 100px;
+    height: 200px;
+    width: 500px;
+}
+
+.leaves{
+    font-size: 20px;
+}
+
+
+.content marquee{
+    background-color: #fff;
+}

@@ -1,0 +1,91 @@
+body{
+    background-image: url('bg6.jpg');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 90px;
+    background-color: black;
+    color: white;
+}
+
+nav ul li{
+    padding: 0 15px;
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    white-space: nowrap;
+}
+
+nav ul li a:hover{
+    border-bottom: 3px solid #fff;
+    background-color: rgba(255, 51, 153, 0.527);
+}
+
+.brand img{
+    height: 95px;
+    padding: 0 8px;
+}
+
+.content{
+    padding: 20px;
+}
+
+.content h2{
+    margin-top: 5px;
+}
+
+.content ul li{
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.content ul li b{
+    font-size: 20px;
+}
+
+.morning{
+    display: flex;
+}
+
+.morning img{
+    height: 300px;
+    margin-left: 100px;
+}
+
+.afternoon{
+    display: flex;
+}
+
+.afternoon img{
+    height: 270px;
+    margin-left: 200px;
+}
+
+.evening{
+    display: flex;
+}
+
+.bedtime{
+    display: flex;
+}
+
+.bedtime img{
+    height: 150px;
+    margin-left: 100px;
+}
+
+.content marquee{
+    background-color: whitesmoke;
+}
