@@ -1,0 +1,25 @@
+body{
+    background-color:azure;
+}
+.f4{
+    display: flex;
+}
+
+.n3{
+    display: flex;
+}
+
+body img{
+    height: 200px;
+    padding: 20px;
+}
+
+.f4 p{
+    text-align: center;
+    padding: 60px;
+}
+
+.n3 p{
+    text-align: center;
+    padding: 100px;
+}
